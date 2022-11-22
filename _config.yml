@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anubhav Jangra"
+title                    : "Anshul Nasery"
 title_separator          : " "
-name                     : &name "Anubhav Jangra"
+name                     : &name "Anshul Nasery"
 description              : &description "Personal website"
-url                      : https://anubhav-jangra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anshuln.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anubhav-jangra/anubhav-jangra.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anubhav"
-  avatar           : "anubhav.jpeg"
+  name             : "Anshul"
+  avatar           : "anshul.jpeg"
   bio              : "Pre-doctoral Researcher, Google Research India"
-  location         : "Hisar, Haryana, India"
+  location         : "Bangalore, Karnataka, India"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.in/citations?user=_f9B45kAAAAJ&hl=en#"
-  email            : "emailofanubhav@gmail.com"
-  researchgate     :  https://www.researchgate.net/profile/Anubhav_Jangra2
+  googlescholar    : "https://scholar.google.co.in/citations?user=lmvY2SMAAAAJ&hl=en#"
+  email            : "emailofanshul@gmail.com"
+  researchgate     :  # https://www.researchgate.net/profile/Anubhav_Jangra2
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "anubhav-jangra"
+  github           : "anshuln"
   google_plus      :
   keybase          :
-  instagram        : "anubhav_jangra"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "anubhav-jangra"
-  orcid            : "https://orcid.org/0000-0001-5571-6098"
+  linkedin         : "anshul-nasery"
+  orcid            : # "https://orcid.org/0000-0001-5571-6098"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
